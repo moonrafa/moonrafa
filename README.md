@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align-items="center">
+<div align="center">
   <a href="https://github.com/rrafadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrafadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafadev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="1028em" src="https://github-readme-stats.vercel.app/api?username=rrafadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="1028em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 ![Snake animation](https://github.com/rrafadev/rrafadev/blob/output/github-contribution-grid-snake.svg)
