@@ -2,14 +2,19 @@
 <h3 align="center">A web development student </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1454037/screenshots/5360175/apartments-animated-dribbler-bottom.gif">
 
+- 📚 College Student <!-- in Information Technology at the Federal University of Mato Grosso do Sul (UFMS); -->
 
-- 🌙 I’m currently learning **javascript and react**
+- 🌙 I’m currently studying **javascript with node.js and react**
 
 - ⭐ I’m looking to collaborate on **open source projects to improve my skills**
 
-- 🌠 All of my projects are available at [githrub.com/moonrafa](githrub.com/moonrafa)
+- 🌠 All of my projects are available in my github page
 
 - ✨ How to reach me **rrafasrodrigues@gmail.com**
+
+- 💘 I love my playlists, cloudy days and movies;
+
+- 🌟 I love solving problems and learning new things
 
 
 <h3 align="left">Languages and Tools:</h3>
