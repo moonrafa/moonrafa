@@ -8,13 +8,13 @@
 
 - ⭐ I’m looking to collaborate on **open source projects to improve my skills**
 
-- 🌠 All of my projects are available in my github page
+- 🌟 I love solving problems and learning new things
 
 - ✨ How to reach me **rrafasrodrigues@gmail.com**
 
-- 💘 I love my playlists, cloudy days and movies;
+- 💘 I also love my playlists, cloudy days and movies;
 
-- 🌟 I love solving problems and learning new things
+
 
 
 <h3 align="left">Languages and Tools:</h3>
