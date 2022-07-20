@@ -2,7 +2,7 @@
 <h3 align="center">A web developer </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1454037/screenshots/5360175/apartments-animated-dribbler-bottom.gif">
 
-- 📚 College student <!-- in Information Technology at the Federal University of Mato Grosso do Sul (UFMS); -->
+<!-- 📚 College student in Information Technology at the Federal University of Mato Grosso do Sul (UFMS); -->
 
 - 🌙 I’m currently studying **javascript with node.js and react**
 
