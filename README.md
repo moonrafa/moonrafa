@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafaelly</h1>
-<h3 align="center">A web developer </h3>
+<h3 align="center">A front-end developer </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1454037/screenshots/5360175/apartments-animated-dribbler-bottom.gif">
 
 <!-- 📚 College student in Information Technology at the Federal University of Mato Grosso do Sul (UFMS); -->
