@@ -4,7 +4,7 @@
 
 <!-- 📚 College student in Information Technology at the Federal University of Mato Grosso do Sul (UFMS); -->
 
-- 🌙 I’m currently studying **javascript with node.js and react**
+- 🌙 I’m currently studying **javascript and react**
 
 <!-- ⭐ I’m looking to collaborate on **open source projects to improve my skills** -->
 
