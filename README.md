@@ -23,7 +23,7 @@
 
 <h3 align="left">My github stats:</h3>
 <div align="center">
- <p> <a href="https://github.com/moonrafa"> <img height="180em" width="1028rem" src="https://github-readme-stats.vercel.app/api?username=moonrafa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> <img height="180em" width="1028rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrafa&layout=compact&langs_count=7&theme=synthwave"/> </a> </p>
+ <p> <a href="https://github.com/moonrafa"> <img height="180em" width="1028rem" src="https://github-readme-stats.vercel.app/api?username=moonrafa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> <img height="215em" width="1028rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrafa&layout=compact&langs_count=7&theme=synthwave"/> </a> </p>
 </div>
  
 ![Snake animation](https://github.com/moonrafa/moonrafa/blob/output/github-contribution-grid-snake.svg)
