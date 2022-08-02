@@ -4,16 +4,20 @@
   <table>
     <tr>
       <td> 
-        <h3 align="left">About me:</h3>
-        <p> 🌙 I’m currently creating projects using **javascript and react** </p>
-        <p> 🌟 I love creative coding because i love art and i love solving logical problems </p>
-        <p> 🔭 I think about complex ideas a lot and I love being challenged, that's why I'm always learning new things </p>
-        <p> 💘 I also love good playlists, stardew valley and astronomy; </p>
       </td>
         <td>
 <img align="center" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
 </td>
 </tr>
+    <tr>
+      <td>
+      <h3 align="left">About me:</h3>
+      <p> 🌙 I’m currently creating projects using **javascript and react** </p>
+        <p> 🌟 I love creative coding because i love art and i love solving logical problems </p>
+        <p> 🔭 I think about complex ideas a lot and I love being challenged, that's why I'm always learning new things </p>
+        <p> 💘 I also love good playlists, stardew valley and astronomy; </p>
+        </td>
+    </tr>
   </table>
 </center>
 
