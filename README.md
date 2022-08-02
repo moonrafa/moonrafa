@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rafaelly</h1>
 <h3 align="center">A front-end developer </h3>
-<div>
-<img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
-</div>
+<center>
+  <table>
+    <tr>
+      <td> 
+        <h3 align="left">About me:</h3>
+        <p> 🌙 I’m currently creating projects using **javascript and react** </p>
+        <p> 🌟 I love creative coding because i love art and i love solving logical problems </p>
+        <p> 🔭 I think about complex ideas a lot and I love being challenged, that's why I'm always learning new things </p>
+        <p> 💘 I also love good playlists, stardew valley and astronomy; </p>
+      </td>
+        <td>
+<img align="center" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
+</td>
+</tr>
+  </table>
+</center>
 
-<div>
-<h3 align="left">About me:</h3>
-<!-- 📚 College student in Information Technology at the Federal University of Mato Grosso do Sul (UFMS); -->
-
-- 🌙 I’m currently creating projects using **javascript and react**
-
-<!-- ⭐ I’m looking to collaborate on **open source projects to improve my skills** -->
-
-- 🌟 I love creative coding because i love art and i love solving logical problems 
-
-- 🔭 I think about complex ideas a lot and I love being challenged, that's why I'm always learning new things
-
-- 💘 I also love good playlists, stardew valley and astronomy;
-</div>
 <h3 align="left">Languages and Tools:</h3>
 <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
