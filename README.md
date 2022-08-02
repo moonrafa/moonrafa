@@ -17,7 +17,7 @@
       <td>
       <h3 align="left">About me:</h3>
         <p> 🌙 I’m currently creating projects using <b>javascript and react</b> </p>
-        <p> 🌟 I love creative coding because i love art and i love solving <br>logical problems </p>
+        <p> 🌟 I love creative coding because I love art and I love solving <br>logical problems </p>
         <p> 🔭 I think about complex ideas a lot and I love challenges <br> that's why I'm always learning new things </p>
         <p> 💘 I also love good playlists, stardew valley and astronomy; </p>
 </td>
