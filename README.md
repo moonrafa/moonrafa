@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rafaelly</h1>
 <h3 align="center">A front-end developer </h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
+
+<h3 align="left">About me:</h3>
 <!-- 📚 College student in Information Technology at the Federal University of Mato Grosso do Sul (UFMS); -->
 
 - 🌙 I’m currently creating projects using **javascript and react**
