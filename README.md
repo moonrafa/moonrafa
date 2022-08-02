@@ -10,9 +10,6 @@
 <img align="center" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
 </td>
 
-<td>
-</td>
-
 </tr>
     <tr>
     <td>
@@ -23,8 +20,6 @@
         <p> 🌟 I love creative coding because i love art and i love solving logical problems </p>
         <p> 🔭 I think about complex ideas a lot and I love being challenged, that's why I'm always learning new things </p>
         <p> 💘 I also love good playlists, stardew valley and astronomy; </p>
-        </td>
-        <td>
 </td>
     </tr>
   </table>
