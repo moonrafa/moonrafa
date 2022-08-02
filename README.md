@@ -3,15 +3,12 @@
 <center>
   <table>
     <tr>
-      <td align="center"> 
-        <img align="center" width="450"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrafa&layout=compact&langs_count=7&theme=synthwave">
-      </td>
-        <td>
+<td align="center">
 <img align="center" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
 </td>
 </tr>
     <tr>
-      <td>
+      <td align="center">
       <h3 align="left">About me:</h3>
         <p> 🌙 I’m currently creating projects using <b>javascript and react</b> </p>
         <p> 🌟 I love creative coding because i love art and i love solving logical problems </p>
@@ -29,7 +26,8 @@
 <center>
   <table>
     <tr>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=moonrafa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>  </td>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=moonrafa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=moonrafa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 
 </tr>
 
