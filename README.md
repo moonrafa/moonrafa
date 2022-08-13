@@ -46,5 +46,5 @@
  
 ![Snake animation](https://github.com/moonrafa/moonrafa/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com) [![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/rafaelly.z) ![](https://img.shields.io/github/followers/moonrafa?style=social) <img src="http://views.whatilearened.today/views/github/moonrafa/views.svg"/>
+[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com) [![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/rafaelly.z) ![](https://img.shields.io/github/followers/codercoder?style=social) <img src="http://views.whatilearened.today/views/github/moonrafa/views.svg"/>
 
