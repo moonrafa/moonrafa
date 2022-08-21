@@ -18,7 +18,6 @@
       <h3 align="left">About me:</h3>
         <p> 🌙 I’m currently working on projects using <b> reactJS</b> </p>
         <p> 🌟 I love <b> creative coding </b> because I love art and I love coding </p>
-        <p> 🔭 I think about complex ideas a lot and I love challenges </p>
         <p> 💡 I really enjoy solving  logical problems and learning new things </p>
         <p> 💘 I also love good playlists, stardew valley and astronomy; </p>
 </td>
