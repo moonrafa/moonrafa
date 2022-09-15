@@ -13,7 +13,7 @@
  
  <h3 align="left">About me: </h3>
  
- - :computer: I have high Experience with JavaScript and medium experience with React and Node.js. Click <a href="https://moonrafa.github.io/my-portfolio" target="_blank"> here </a> to check out my portfolio 
+ - :computer: I have high Experience with JavaScript, ReactJS and node.js. Click <a href="https://moonrafa.github.io/my-portfolio" target="_blank"> here </a> to check out my portfolio 
  
  - :abacus: I really enjoy solving logical problems and learning new things
 
