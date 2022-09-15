@@ -16,6 +16,8 @@
  - :computer: I have high Experience with JavaScript and medium experience with React and Node.js. Click <a href="https://moonrafa.github.io/my-portfolio" target="_blank"> here </a> to check out my portfolio 
  
  - :abacus: I really enjoy solving logical problems and learning new things
+
+-  :pushpin:	Graduating in Information Technology at the Federal University of Mato Grosso do Sul (UFMS);
  
  - :books: I love puzzle games and aesthetically pleasing designs
  
