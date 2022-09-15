@@ -17,7 +17,7 @@
  
  - :abacus: I really enjoy solving logical problems and learning new things
 
--  :pushpin: I'm	Graduating in Information Technology at the Federal University of Mato Grosso do Sul (UFMS);
+-  :pushpin: I'm graduating in Information Technology at the Federal University of Mato Grosso do Sul (UFMS);
  
  - :books: I love puzzle games and aesthetically pleasing designs
  
