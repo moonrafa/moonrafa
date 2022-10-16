@@ -1,11 +1,11 @@
-<a href="https://moonrafa.github.io/my-portfolio"><img width="950px" align="center" src="https://i.ibb.co/NpSRXW6/Hi-I-m-Rafaelly.png" alt="welcome"/></a>
+<a href="https://moonrafa.github.io/my-portfolio"><img width="950px" align="center" src="https://i.postimg.cc/BnCGkjRW/Hello-I-m-Nice-to-meet-you.png" alt="welcome"/></a>
 
 <center>
   <table>
     <tr>
- <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrafa&layout=compact&theme=synthwave">
+ <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrafa&layout=compact&theme=midnight-purple">
 </td>
- <td><img  width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=moonrafa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"> 
+ <td><img  width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=moonrafa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"> 
       </td>
     </tr>
   </table>
