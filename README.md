@@ -21,7 +21,7 @@
  
  - :books: I love puzzle games and aesthetically pleasing designs
  
- - :heavy_heart_exclamation:	I also love good playlists, astronomy and stardew valley
+ - :heavy_heart_exclamation:	I also love good playlists, astronomy and cozy games
 
 
 <h3 align="left">Languages:</h3>
