@@ -1,4 +1,4 @@
-<a href="https://moonrafa.github.io/my-portfolio"><img width="950px" align="center" src="https://i.postimg.cc/BnCGkjRW/Hello-I-m-Nice-to-meet-you.png" alt="welcome"/></a>
+[![Hello-I-m-Nice-to-meet-you-1.png](https://i.postimg.cc/R0mmfR7k/Hello-I-m-Nice-to-meet-you-1.png)](https://postimg.cc/TKtBvnH0)
 
 <center>
   <table>
@@ -13,7 +13,7 @@
  
  <h3 align="left">About me: </h3>
  
- - :computer: I have high Experience with JavaScript, TypeScript ReactJS and Next.js. Click <a href="https://moonrafa.github.io/my-portfolio" target="_blank"> here </a> to check out my portfolio 
+ - :computer: I have high Experience with ReactJS, Node.js, Next.js, Python and MongoDB. Click <a href="https://moonrafa.github.io/my-portfolio" target="_blank"> here </a> to check out my portfolio 
  
  - :abacus: I really enjoy solving logical problems and learning new things
 
