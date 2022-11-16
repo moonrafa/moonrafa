@@ -12,7 +12,7 @@
  
  <h3 align="left">About me: </h3>
  
- - :computer: I have Experience with Python, Node.js, Next.js, SQL/NoSQL. Click <a href="https://moonrafa.github.io/my-portfolio" target="_blank"> here </a> to check out my portfolio 
+ - :computer: I have Experience with Python, Node.js, Next.js, SQL/NoSQL. Click <a href="https://portfolio-moonrafa.vercel.app/" target="_blank"> here </a> to check out my portfolio 
  
  - :abacus: I really enjoy solving logical problems and learning new things
 
