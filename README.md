@@ -3,7 +3,7 @@
  <h3 align="left">About me: </h3>
  
 - :keyboard: I'm a software developer intern at <a href="https://www.intuitivecare.com/"> IntuitiveCare <a> 
-- :abacus: I have Experience with Python, MySQL, PostgreSQL,MongoDB, JavaScript, Next.js and more. Click <a href="https://portfolio-moonrafa.vercel.app/" target="_blank"> here </a> to check out my portfolio 
+- :abacus: I have Experience with Python, MySQL, PostgreSQL, MongoDB, JavaScript, Next.js and more. Click <a href="https://portfolio-moonrafa.vercel.app/" target="_blank"> here </a> to check out my portfolio 
 -  :pushpin: I'm graduating in Information Technology at the Federal University of Mato Grosso do Sul (UFMS);
 - :computer: I love solving logical problems
 - :heavy_heart_exclamation:	I also love good playlists, astronomy and cozy games
