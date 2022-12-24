@@ -1,24 +1,23 @@
-[![Hello-I-m-Nice-to-meet-you-2.png](https://i.postimg.cc/x154gqMR/Hello-I-m-Nice-to-meet-you-2.png)](https://postimg.cc/RW3dZSP6)<center>
+[![Hello-I-m-Nice-to-meet-you-2.png](https://i.imgur.com/Jh0F5oT.png)](https://i.imgur.com/Jh0F5oT)
+ 
+ <h3 align="left">About me: </h3>
+ 
+- :keyboard: I'm a software developer intern at <a href="https://www.intuitivecare.com/"> IntuitiveCare <a> 
+- :abacus: I have Experience with Python, MySQL, PostgreSQL,MongoDB, JavaScript, Next.js and more. Click <a href="https://portfolio-moonrafa.vercel.app/" target="_blank"> here </a> to check out my portfolio 
+-  :pushpin: I'm graduating in Information Technology at the Federal University of Mato Grosso do Sul (UFMS);
+- :computer: I love solving logical problems
+- :heavy_heart_exclamation:	I also love good playlists, astronomy and cozy games
+
+  <center>
   <table>
     <tr>
- <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrafa&hide=html,css&layout=compact&theme=midnight-purple">
+ <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrafa&hide=html,css,scss,shell&layout=compact&theme=midnight-purple">
 </td>
  <td><img  width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=moonrafa&show_icons=true&hide=stars&theme=midnight-purple&include_all_commits=true&count_private=true"> 
       </td>
     </tr>
   </table>
 </center>
- 
- <h3 align="left">About me: </h3>
- 
- - :computer: I have Experience with Python, Node.js, Next.js, SQL/NoSQL. Click <a href="https://portfolio-moonrafa.vercel.app/" target="_blank"> here </a> to check out my portfolio 
- 
- - :abacus: I really enjoy solving logical problems and learning new things
-
--  :pushpin: I'm graduating in Information Technology at the Federal University of Mato Grosso do Sul (UFMS);
-  
- - :heavy_heart_exclamation:	I love good playlists, astronomy and cozy games
-
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
