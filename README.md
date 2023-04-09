@@ -11,7 +11,7 @@
   <center>
   <table>
     <tr>
- <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrafa&hide=html,css,scss,shell&layout=compact&theme=midnight-purple">
+ <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrafa&hide=php,html,css,scss,shell&layout=compact&theme=midnight-purple">
 </td>
  <td><img  width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=moonrafa&show_icons=true&hide=stars&theme=midnight-purple&include_all_commits=true&count_private=true"> 
       </td>
