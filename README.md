@@ -1,4 +1,4 @@
-[![Hello-I-m-Nice-to-meet-you-2.png](https://i.imgur.com/Jh0F5oT.png)](https://i.imgur.com/Jh0F5oT)
+[![Hello-I-m-Nice-to-meet-you-2.png](https://i.imgur.com/Ax467rh.png)](https://i.imgur.com/Ax467rh.png)
  
  <h3 align="left">About me: </h3>
  
