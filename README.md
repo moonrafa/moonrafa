@@ -2,7 +2,7 @@
  
 ## About me
 
-- 💻 I'm a software engineer intern at <a href="https://www.intuitivecare.com/"> IntuitiveCare<a>, currently pursuing a degree in Information Technology at the Federal University of Mato Grosso do Sul (UFMS).
+- 💻 I'm a software engineer, currently pursuing a degree in Information Technology at the Federal University of Mato Grosso do Sul (UFMS).
 - 🧮 I have experience with Python, JavaScript, Node.js, Golang, MySQL, PostgreSQL, MongoDB, Kubernetes, Docker, Git, Cassandra, Redis, Django, AWS, and more.
 - 🧠 Problem-solving is my passion, and I enjoy tackling logical challenges with enthusiasm.
 - ❣️ When I'm not coding, you can find me enjoying good playlists, movies, and cozy games.
