@@ -26,7 +26,3 @@ Thank you for visiting my profile! 🙌
     </tr>
   </table>
 </center>
-
- 
-![Snake animation](https://github.com/moonrafa/moonrafa/blob/output/github-contribution-grid-snake.svg)
-
